@@ -1,0 +1,1 @@
+# aurdino-earthquake-detector
